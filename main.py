@@ -1,5 +1,5 @@
 from flask import Flask
-import jenkins
+# import jenkinss
 from flask_cors import CORS, cross_origin
 import json
 from os import path
